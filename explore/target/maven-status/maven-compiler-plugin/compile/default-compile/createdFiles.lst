@@ -1,0 +1,7 @@
+com\matiar\api\explore\repository\ShipwreckRepository.class
+com\matiar\api\explore\controller\ShipwreckController.class
+com\matiar\api\explore\model\Shipwreck.class
+com\matiar\api\explore\config\PersistenceConfiguration.class
+com\matiar\api\explore\controller\ShipwreckStub.class
+com\matiar\api\explore\controller\RestHomeController.class
+com\matiar\api\explore\App.class

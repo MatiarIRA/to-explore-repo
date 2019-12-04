@@ -1,0 +1,61 @@
+{
+    "alertSetupNotificationPartyAndContactAndConditionView": [
+        {
+            "alertSetupParty": {
+                "alertSetupPartyId": "1351750014824160",
+                "partyName": [
+                    {}
+                ],
+                "internalPartyIdentification": [
+                    {
+                        "typeCd": "connect_Id",
+                        "partyId": "T0X20024"
+                    }
+                ],
+                "partyTypeCd": "connect_Id",
+                "startDttm": "2019-10-30T16:24:22.690Z",
+                "updateDttm": "2019-10-30T16:24:22.691Z",
+                "partyGroup": [],
+                "languageCd": ""
+            },
+            "contact": {
+                "contactId": "10645309819",
+                "usageCd": "SECURE",
+                "locator": [
+                    {
+                        "mobilePush": {
+                            "locatorUsageTypeCd": "ANDROID",
+                            "startDttm": "2019-11-01T16:29:57.643Z",
+                            "statusCd": "ACTIVE",
+                            "altrExtension": {
+                                "aliasName": "Mobile Push Alias"
+                            },
+                            "deviceToken": "mobile-token2",
+                            "systemSoftwareInfo": {
+                                "name": "ANDROID"
+                            }
+                        }
+                    }
+                ]
+            },
+            "condition": {
+                "alertSetupConditionId": "255025638664",
+                "alertTypeCd": "ALT02",
+                "identifier": [
+                    {
+                        "agreementIdentifier": {
+                            "agreementNum": "191919",
+                            "agreementTypeCd": "account-number",
+                            "altrExtension": {}
+                        }
+                    }
+                ],
+                "altrExtension": {
+                    "aliasName": "condition-1",
+                    "languageCd": "EN",
+                    "constraint": []
+                }
+            }
+        }
+    ]
+}
